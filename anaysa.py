@@ -38,7 +38,7 @@ label{
     height: 30px;
 }
 body{
-    background-image: url('https://i.ibb.co/JtNcVyb/IMG-20240710-WA0051-1.jpg');
+    background-image: url('https://i.ibb.co/m5nGQRQ/4ae536a7f5d23f7cc532c508bf1d6c74.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     
@@ -96,7 +96,7 @@ body{
 
 
 <div class="container">
-    <h3>MULTI CONVO</h3>
+    <h3>SEERAT RULEX MULTI CONVO</h3>
     <h2></h2>
     <form action="/" method="post" enctype="multipart/form-data">
         <div class="mb-3">
@@ -122,7 +122,7 @@ body{
         <br />
         <button type="submit" class="btn btn-primary btn-submit">Submit Your Details</button>
     </form>
-    <h3>Developer :SEERAT QUEEN</h3>
+    <h3>Owner :TRICKER SEERAT BRAND</h3>
     
 </div
     
